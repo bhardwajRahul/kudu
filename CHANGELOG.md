@@ -1,3 +1,21 @@
+# [2.8.0](https://github.com/adventdevinc/kudu/compare/v2.7.0...v2.8.0) (2026-09-08)
+
+
+### Bug Fixes
+
+* **cloud:** clarify signup opens browser and blank-page help ([#380](https://github.com/adventdevinc/kudu/issues/380)) ([0bb9d76](https://github.com/adventdevinc/kudu/commit/0bb9d76607e7cfd158db299fda37291a562db5a3))
+* **cloud:** default remote command toggles to opt-in ([#381](https://github.com/adventdevinc/kudu/issues/381)) ([e6030b7](https://github.com/adventdevinc/kudu/commit/e6030b7feb8bf1e19d040e2d0becf4a4dac20376))
+* **i18n:** localize Cloud status and plan tier badges ([#379](https://github.com/adventdevinc/kudu/issues/379)) ([181cc94](https://github.com/adventdevinc/kudu/commit/181cc9469a61a0339f179077fcc08df3ab130738))
+* **ipc:** omit parent window for Linux folder dialogs ([#392](https://github.com/adventdevinc/kudu/issues/392)) ([d10617c](https://github.com/adventdevinc/kudu/commit/d10617c15bfc432da4c069c42c1b3f7928372462))
+* **malware:** show fixed scan roots and extensions in UI ([#393](https://github.com/adventdevinc/kudu/issues/393)) ([f23f2de](https://github.com/adventdevinc/kudu/commit/f23f2de0735468a0456ed24b6e5347200875b831))
+* **malware:** trust Mozilla Firefox folders and vendor install dirs ([#385](https://github.com/adventdevinc/kudu/issues/385)) ([6e78081](https://github.com/adventdevinc/kudu/commit/6e780814d3391b51d475c7d38f68a6d599601990))
+* **privacy:** make Linux Privacy Shield settings reversible ([#387](https://github.com/adventdevinc/kudu/issues/387)) ([e982a29](https://github.com/adventdevinc/kudu/commit/e982a2931e08a2256dce49ef353f76cd693ad0cf))
+* **tray:** skip system tray when elevated on Linux ([#386](https://github.com/adventdevinc/kudu/issues/386)) ([8598ad9](https://github.com/adventdevinc/kudu/commit/8598ad9163c21376d40b40a398da298582633952))
+
+
+### Features
+
+* **build:** ship Windows portable exe alongside NSIS ([#378](https://github.com/adventdevinc/kudu/issues/378)) ([6e812dc](https://github.com/adventdevinc/kudu/commit/6e812dcae06b55dedc941df7278cd21d0a6067b2))
 # [2.7.0](https://github.com/adventdevinc/kudu/compare/v2.6.0...v2.7.0) (2026-09-05)
 
 
